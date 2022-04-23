@@ -1,0 +1,16 @@
+F:\C# Practice\Madlib\bin\Debug\net5.0\Madlib.exe
+F:\C# Practice\Madlib\bin\Debug\net5.0\Madlib.deps.json
+F:\C# Practice\Madlib\bin\Debug\net5.0\Madlib.runtimeconfig.json
+F:\C# Practice\Madlib\bin\Debug\net5.0\Madlib.runtimeconfig.dev.json
+F:\C# Practice\Madlib\bin\Debug\net5.0\Madlib.dll
+F:\C# Practice\Madlib\bin\Debug\net5.0\Madlib.pdb
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.csproj.AssemblyReference.cache
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.AssemblyInfoInputs.cache
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.AssemblyInfo.cs
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.csproj.CoreCompileInputs.cache
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.dll
+F:\C# Practice\Madlib\obj\Debug\net5.0\refint\Madlib.dll
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.pdb
+F:\C# Practice\Madlib\obj\Debug\net5.0\Madlib.genruntimeconfig.cache
+F:\C# Practice\Madlib\obj\Debug\net5.0\ref\Madlib.dll
